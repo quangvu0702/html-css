@@ -11,7 +11,9 @@ Coursera: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
 
 ## Useful commands:
-  - browser-sync
+  - browser-sync start --server --directory --files "*"
+  - browser-sync start --server --directory --files "**/*"
+  
 ## Useful website:
   - Css-tricks.com
   - CodePen.io
